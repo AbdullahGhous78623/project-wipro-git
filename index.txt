@@ -1,0 +1,23 @@
+
+ CI/CD Demo Project!
+
+ This is a sample Java web application that demonstrates:
+ - CI/CD automation using Jenkins
+ - Infrastructure provisioning with Terraform
+ - Build automation using Maven
+ - Deployment to Tomcat server
+ - Monitoring with Prometheus and Grafana
+
+ Author: Abdullah Ghous
+ GitHub Repo: https://github.com/Msocial123/maven-web-application.git
+ Welcome to the DevOps CI/CD Demo Project!
+
+This is a sample Java web application that demonstrates:
+- CI/CD automation using Jenkins
+- Infrastructure provisioning with Terraform
+- Build automation using Maven
+- Deployment to Tomcat server
+- Monitoring with Prometheus and Grafana
+
+Author: Abdullah Ghous
+GitHub Repo: https://github.com/Msocial123/maven-web-application.git
