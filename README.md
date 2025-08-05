@@ -26,6 +26,6 @@ To build a complete DevOps pipeline that:
 
 ---
 
-## í·± Project Architecture:
+
 
 
